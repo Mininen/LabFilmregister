@@ -1,0 +1,8 @@
+Inception;2011;Action;148;8,8
+Jurassic Park;1993;Adventure;127;8,1
+Moonrise Kingdom;2012;Adventure;94;7,8
+Spirited Away;2001;Adventure;125;8,6
+test 2;2021;Ångest;160;0
+Testa;1200;testa test;165;0,5
+The Big Lebowski;1998;Comedy;117;8,1
+The dark knight;2008;Action;152;9

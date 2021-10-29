@@ -1,0 +1,36 @@
+C:\Users\Miriam\source\repos\Movieregister\Movieregister\bin\Debug\Movieregister.exe.config
+C:\Users\Miriam\source\repos\Movieregister\Movieregister\bin\Debug\Movieregister.exe
+C:\Users\Miriam\source\repos\Movieregister\Movieregister\bin\Debug\Movieregister.pdb
+C:\Users\Miriam\source\repos\Movieregister\Movieregister\obj\Debug\Movieregister.csprojAssemblyReference.cache
+C:\Users\Miriam\source\repos\Movieregister\Movieregister\obj\Debug\Movieregister.csproj.CoreCompileInputs.cache
+C:\Users\Miriam\source\repos\Movieregister\Movieregister\obj\Debug\Movieregister.exe
+C:\Users\Miriam\source\repos\Movieregister\Movieregister\obj\Debug\Movieregister.pdb
+\\utbfs2\UTBVOL4\home\S182414\Desktop\Movieregister\Movieregister\bin\Debug\Movieregister.exe.config
+\\utbfs2\UTBVOL4\home\S182414\Desktop\Movieregister\Movieregister\obj\Debug\Movieregister.exe
+\\utbfs2\UTBVOL4\home\S182414\Desktop\Movieregister\Movieregister\obj\Debug\Movieregister.pdb
+\\utbfs2\UTBVOL4\home\S182414\Desktop\Movieregister\Movieregister\obj\Debug\Movieregister.csprojResolveAssemblyReference.cache
+\\utbfs2\UTBVOL4\home\S182414\Desktop\Movieregister\Movieregister\bin\Debug\Movieregister.exe
+\\utbfs2\UTBVOL4\home\S182414\Desktop\Movieregister\Movieregister\bin\Debug\Movieregister.pdb
+\\utbfs1\UTBVOL0\home\S181950\Desktop\Movieregister\Movieregister\bin\Debug\Movieregister.exe.config
+\\utbfs1\UTBVOL0\home\S181950\Desktop\Movieregister\Movieregister\obj\Debug\Movieregister.exe
+\\utbfs1\UTBVOL0\home\S181950\Desktop\Movieregister\Movieregister\obj\Debug\Movieregister.pdb
+\\utbfs1\UTBVOL0\home\S181950\Desktop\Movieregister\Movieregister\bin\Debug\Movieregister.exe
+\\utbfs1\UTBVOL0\home\S181950\Desktop\Movieregister\Movieregister\bin\Debug\Movieregister.pdb
+\\utbfs1\UTBVOL0\home\S181950\Desktop\Movieregister\Movieregister\obj\Debug\Movieregister.csprojResolveAssemblyReference.cache
+\\utbfs1\UTBVOL0\home\S181950\Desktop\MovieregisterNyast\Movieregister\bin\Debug\Movieregister.exe.config
+\\utbfs1\UTBVOL0\home\S181950\Desktop\MovieregisterNyast\Movieregister\obj\Debug\Movieregister.exe
+\\utbfs1\UTBVOL0\home\S181950\Desktop\MovieregisterNyast\Movieregister\obj\Debug\Movieregister.pdb
+C:\Users\Miriam\Desktop\VSProjekt\Gamla inlämningar\filmregister (2)\Filmregister\MovieregisterNyast\Movieregister\bin\Debug\Movieregister.exe.config
+C:\Users\Miriam\Desktop\VSProjekt\Gamla inlämningar\filmregister (2)\Filmregister\MovieregisterNyast\Movieregister\bin\Debug\Movieregister.exe
+C:\Users\Miriam\Desktop\VSProjekt\Gamla inlämningar\filmregister (2)\Filmregister\MovieregisterNyast\Movieregister\bin\Debug\Movieregister.pdb
+C:\Users\Miriam\Desktop\VSProjekt\Gamla inlämningar\filmregister (2)\Filmregister\MovieregisterNyast\Movieregister\obj\Debug\Movieregister.csproj.AssemblyReference.cache
+C:\Users\Miriam\Desktop\VSProjekt\Gamla inlämningar\filmregister (2)\Filmregister\MovieregisterNyast\Movieregister\obj\Debug\Movieregister.csproj.CoreCompileInputs.cache
+C:\Users\Miriam\Desktop\VSProjekt\Gamla inlämningar\filmregister (2)\Filmregister\MovieregisterNyast\Movieregister\obj\Debug\Movieregister.exe
+C:\Users\Miriam\Desktop\VSProjekt\Gamla inlämningar\filmregister (2)\Filmregister\MovieregisterNyast\Movieregister\obj\Debug\Movieregister.pdb
+C:\Users\Miriam\Documents\VSProjekt\Gamla inlämningar\filmregister (2)\Filmregister\MovieregisterNyast\Movieregister\bin\Debug\Movieregister.exe.config
+C:\Users\Miriam\Documents\VSProjekt\Gamla inlämningar\filmregister (2)\Filmregister\MovieregisterNyast\Movieregister\bin\Debug\Movieregister.exe
+C:\Users\Miriam\Documents\VSProjekt\Gamla inlämningar\filmregister (2)\Filmregister\MovieregisterNyast\Movieregister\bin\Debug\Movieregister.pdb
+C:\Users\Miriam\Documents\VSProjekt\Gamla inlämningar\filmregister (2)\Filmregister\MovieregisterNyast\Movieregister\obj\Debug\Movieregister.csproj.AssemblyReference.cache
+C:\Users\Miriam\Documents\VSProjekt\Gamla inlämningar\filmregister (2)\Filmregister\MovieregisterNyast\Movieregister\obj\Debug\Movieregister.csproj.CoreCompileInputs.cache
+C:\Users\Miriam\Documents\VSProjekt\Gamla inlämningar\filmregister (2)\Filmregister\MovieregisterNyast\Movieregister\obj\Debug\Movieregister.exe
+C:\Users\Miriam\Documents\VSProjekt\Gamla inlämningar\filmregister (2)\Filmregister\MovieregisterNyast\Movieregister\obj\Debug\Movieregister.pdb
